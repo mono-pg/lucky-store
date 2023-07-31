@@ -1,0 +1,45 @@
+ #pencari {
+     width: 98%;
+     height: 5rem;
+     margin-bottom: 10px;
+     border-radius: 8px;
+     background-color: #ccc;
+     padding-left: 10px;
+ }
+
+ .radio {
+     width: 98%;
+     height: 40px;
+     display: flex;
+     /* Sembunyikan radio button awalnya */
+     align-items: center;
+     gap: 5px;
+     background-color: lightblue;
+     margin-bottom: 20px;
+     padding-left: 10px;
+     border-radius: 8px;
+ }
+
+ /* select {
+        display: none;
+      } */
+ .pembungkus {
+     display: flex;
+     gap: 3px;
+ }
+
+ .pilihan {
+     display: flex;
+     align-items: center;
+     margin-bottom: 20px;
+     cursor: pointer;
+     background-color: rgb(20, 220, 193);
+     padding: 5px;
+     border-radius: 10px;
+ }
+
+ .pilihan img {
+     width: 50px;
+     height: 50px;
+     border-radius: 50%;
+ }
