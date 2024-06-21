@@ -1,1 +1,1 @@
-https://mono-pg.github.io/lucky-store/
+https://mono-pg.github.io/lucky/
